@@ -1,0 +1,6 @@
+{
+  "name": "오토금융 결제준비 양식 자동 생성기",
+  "description": "구글 스프레드시트 데이터를 복사하여 카드사별 결제준비 및 수수료 안내 양식을 원클릭으로 자동 생성하는 업무 도구",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
